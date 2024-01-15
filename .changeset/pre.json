@@ -1,0 +1,12 @@
+{
+  "mode": "exit",
+  "tag": "canary",
+  "initialVersions": {
+    "@bahag-buttf/eslint-config": "0.1.0",
+    "@bahag-buttf/typescript-config": "0.0.5",
+    "@bahag-buttf/ui": "0.1.0"
+  },
+  "changesets": [
+    "violet-comics-smile"
+  ]
+}

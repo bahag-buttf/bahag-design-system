@@ -1,5 +1,11 @@
 # @bahag-buttf/eslint-config
 
+## 0.1.1-canary.0
+
+### Patch Changes
+
+- [#27](https://github.com/bahag-buttf/bahag-design-system/pull/27) [`e88980f`](https://github.com/bahag-buttf/bahag-design-system/commit/e88980fdd0b9e4ef5c17f524cef774caf2f148d3) Thanks [@bahag-buttf](https://github.com/bahag-buttf)! - update readme file
+
 ## 0.1.0
 
 ### Minor Changes
