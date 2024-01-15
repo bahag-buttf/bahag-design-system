@@ -11,7 +11,7 @@
     "generate:component": "turbo gen react-component"
   },
   "devDependencies": {
-    "@bahag-buttf/eslint-config": "^0.1.0",
+    "@bahag-buttf/eslint-config": "^0.1.1-canary.0",
     "@bahag-buttf/typescript-config": "^0.0.5",
     "@turbo/gen": "^1.10.12",
     "@types/node": "^20.5.2",

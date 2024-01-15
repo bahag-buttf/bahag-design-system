@@ -6,5 +6,7 @@
     "@bahag-buttf/typescript-config": "0.0.5",
     "@bahag-buttf/ui": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "violet-comics-smile"
+  ]
 }
